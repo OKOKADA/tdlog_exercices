@@ -13,6 +13,6 @@ class Item:
         self.weight = weight
 
 # Example usage
-i = Item(10, 20)
+i = Item(100, 27)
 print(i.price)  # Output: 10
 print(i.weight)  # Output: 20
